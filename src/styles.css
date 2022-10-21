@@ -1,0 +1,161 @@
+html, body {
+    font-family: 'Oswald', sans-serif;
+    height: 100%;
+}
+
+body {
+    align-items: center;
+    background-image: url("../images/forecast-picture.jpg");
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: auto;
+}
+
+.logo {
+    text-align: center;
+}
+
+.logo-she-codes {
+    width: 190px;
+}
+
+.container {
+    -webkit-backdrop-filter: blur(10px);
+    backdrop-filter: blur(10px);
+    background-image: url("../images/background-drops.png");
+    border: 1px solid black;
+    border-radius: 15px;
+    max-width: 700px;
+    opacity: 70%;
+    padding: 20px;
+}
+
+.cities {
+    align-items: center;
+    font-size: 17px;
+    margin: 0;
+    padding: 15px 0 20px;
+}
+
+.cities span:hover {
+    color: #2c284a;
+}
+
+@media (max-width: 500px) {
+    .cities {
+        display: none;
+    }
+}
+
+.form-control {
+    background-color: lavenderblush;
+}
+
+.enter-a-city {
+    padding: 0;
+    vertical-align: center;
+}
+
+.btn-primary {
+    background-color: #9678aa;
+    border-color: white;
+}
+
+.btn-primary:hover {
+    background-color: #6482a0;
+    border-color: black;
+    color: #2c284a;
+}
+
+.btn-success {
+    background-color: #6482a0;
+    border-color: white;
+}
+
+.btn-success:hover {
+    background-color: #9678aa;
+    border-color: black;
+    color: #2c284a;
+
+}
+
+h1 {
+    font-size: 40px;
+    margin: 10px 0 0 20px;
+    padding: 0;
+}
+
+ul {
+    font-size: 20px;
+    list-style-type: none;
+    margin-bottom: 0;
+    margin-left: -10px;
+    padding-bottom: 0;
+}
+
+img.main-icon {
+    height: 90px;
+    margin: 0 0 40px 150px;
+    text-align: center;
+    width: 90px;
+}
+
+.temperature {
+    color: rgb(255, 255, 255);
+    font-size: 70px;
+    font-weight: 400;
+    line-height: 1;
+    margin-left: 25px;
+}
+
+.units {
+    font-size: 20px;
+    position: relative;
+    top: -50px;
+}
+
+.position-windy-humidity {
+    font-size: 20px;
+    line-height: 30px;
+    padding: 80px 0 0 0;
+}
+
+.forecast-day {
+    background-color: rgba(224, 176, 229, 0.78);
+    border: 1px solid rgba(255, 255, 255, 0.47);
+    border-radius: 15px;
+    line-height: 30px;
+    margin: 0 10px;
+    padding: 0 0 15px;
+    text-align: center;
+}
+
+.weather-forecast-date {
+    opacity: 85%;
+}
+
+.weather-forecast-temperature-min {
+    color: #2c284a;
+    opacity: 75%;
+}
+
+.footer {
+    font-size: 15px;
+}
+
+.footer a {
+    color: #dad2f3;
+    font-size: 15px;
+    text-align: center;
+    text-decoration: none;
+}
+
+.footer a:hover {
+    color: #2c284a;
+}
+
+
+
+
