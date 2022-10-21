@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eedce23a-b769-49a3-92d1-7db1273018b0" name="Changes" comment="Created the Weather forecast Project">
+    <list default="true" id="eedce23a-b769-49a3-92d1-7db1273018b0" name="Changes" comment="Added Netlify link">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +40,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666393616178</updated>
-      <workItem from="1666393617310" duration="414000" />
+      <workItem from="1666393617310" duration="1086000" />
     </task>
     <task id="LOCAL-00001" summary="Created the Weather forecast Project">
       <created>1666393710035</created>
@@ -48,7 +49,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666393710035</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added Netlify link">
+      <created>1666394076332</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1666394076332</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -67,6 +75,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Created the Weather forecast Project" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created the Weather forecast Project" />
+    <MESSAGE value="Added Netlify link" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Netlify link" />
   </component>
 </project>
