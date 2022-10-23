@@ -102,12 +102,18 @@ img.main-icon {
     width: 90px;
 }
 
+@media (max-width: 600px) {
+    img.main-icon {
+        margin: 0 0 40px 10px;
+    }
+}
+
 .temperature {
     color: rgb(255, 255, 255);
     font-size: 70px;
     font-weight: 400;
     line-height: 1;
-    margin-left: 25px;
+    margin-left: 20px;
 }
 
 .units {
@@ -122,14 +128,23 @@ img.main-icon {
     padding: 80px 0 0 0;
 }
 
+#forecast {
+    overflow-x:auto;
+    padding-left: 4px;
+    display: flex;
+    flex-wrap: nowrap;
+    width: 100%;
+}
+
 .forecast-day {
     background-color: rgba(224, 176, 229, 0.78);
     border: 1px solid rgba(255, 255, 255, 0.47);
     border-radius: 15px;
     line-height: 30px;
-    margin: 0 10px;
+    margin: 0 15px;
     padding: 0 0 15px;
     text-align: center;
+    min-width: 80px;
 }
 
 .weather-forecast-date {

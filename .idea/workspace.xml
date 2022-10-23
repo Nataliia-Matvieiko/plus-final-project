@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eedce23a-b769-49a3-92d1-7db1273018b0" name="Changes" comment="Deleted Netlify link">
+    <list default="true" id="eedce23a-b769-49a3-92d1-7db1273018b0" name="Changes" comment="Updated ApiKey Forecast">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +42,7 @@
       <option name="presentableId" value="Default" />
       <updated>1666393616178</updated>
       <workItem from="1666393617310" duration="1086000" />
+      <workItem from="1666562857869" duration="2828000" />
     </task>
     <task id="LOCAL-00001" summary="Created the Weather forecast Project">
       <created>1666393710035</created>
@@ -56,7 +58,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666394076332</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Updated ApiKey Forecast">
+      <created>1666547276371</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1666547276371</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -76,6 +85,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Created the Weather forecast Project" />
     <MESSAGE value="Added Netlify link" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Netlify link" />
+    <MESSAGE value="Updated ApiKey Forecast" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated ApiKey Forecast" />
   </component>
 </project>
