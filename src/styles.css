@@ -28,7 +28,7 @@ body {
     border: 1px solid black;
     border-radius: 15px;
     max-width: 700px;
-    opacity: 70%;
+    /*opacity: 70%;*/
     padding: 20px;
 }
 
